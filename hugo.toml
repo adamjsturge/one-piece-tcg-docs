@@ -1,8 +1,8 @@
 baseURL = "https://example.com/"
-title = "Hugo Theme Tailwind Example Site"
-author = "Your Name"
-copyright = "Your Name"
-paginate = 10
+title = "One Piece TCG Help"
+author = "Adam Sturge"
+copyright = "Adam Sturge"
+# paginate = 10
 languageCode = "en"
 theme = "tailwind"
 
@@ -12,13 +12,13 @@ theme = "tailwind"
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+#   contentTypeName = "posts"
 
   [params.header]
     logo = "logo.webp"
 
   [params.footer]
-    since = 2023
+    since = 2024
     poweredby = true
 
 [menu]
